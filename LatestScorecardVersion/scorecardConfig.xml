@@ -20,7 +20,7 @@
 		<sectionRule ruleId="M4" ruleName="Medications coded with RxNorm SCD, SBD, GPCK, or BPCPK codes" ruleEnabled="true"></sectionRule>
 		<sectionRule ruleId="M5" ruleName="Each entry has to be linked to related narrative text" ruleEnabled="true"></sectionRule>
 		<sectionRule ruleId="M6" ruleName="All Template Ids should be Valid with correct extension value" ruleEnabled="true"></sectionRule>		
-		<sectionRule ruleId="M7" ruleName="Each medication needs to have its own Medication Signture Text EntryRelationship and the reference should exist in the same section where you found it" ruleEnabled="true"></sectionRule>		
+		<sectionRule ruleId="M7" ruleName="Each medication needs to have its own Medication Signature Text EntryRelationship and the reference should exist in the same section where you found it" ruleEnabled="true"></sectionRule>		
 	</scorecardSection>		
 	
 	<scorecardSection sectionName="Immunizations">
